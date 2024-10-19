@@ -13,7 +13,7 @@ This project is a full-stack application built with **Next.js** for the frontend
 
 1. Clone the frontend repository:
    ```bash
-   git clone https://github.com/Ibukun-tech/frontend.git
+   git clone https://github.com/Ibukun-tech/deeptech.git
    ```
 2. Navigate to the frontend directory:
    ```bash
@@ -39,11 +39,11 @@ This project is a full-stack application built with **Next.js** for the frontend
 
 1. Clone the backend repository:
    ```bash
-   git clone https://github.com/Ibukuntech/backend.git
+   git clone https://github.com/Ibukun-tech/deeptech.git
    ```
 2. Navigate to the backend directory:
    ```bash
-   cd backend
+   cd Backend
    ```
 3. Install the dependencies:
    ```bash
