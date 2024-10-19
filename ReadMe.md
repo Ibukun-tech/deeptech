@@ -6,34 +6,31 @@ This project is a full-stack application built with **Next.js** for the frontend
 ## Getting Started
 
 ### Prerequisites
-- Node.js (version X.X.X)
-- MongoDB (for the backend)
-
+- Node.js 
+- MongoDB 
 ### Frontend Setup
 
 1. Clone the frontend repository:
    ```bash
-   git clone https://github.com/Ibukun-tech/deeptech.git
+   git clone https://github.com/Ibukun-tech/my-fullstack-app.git
    ```
-2. Navigate to the frontend directory:
-   ```bash
-   cd frontend
+
    ```
-3. Install the dependencies:
+2. Install the dependencies:
    ```bash
    npm install
    # or
    yarn install
    ```
 
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    # or
    yarn dev
    ```
 
-5. Open your browser and navigate to `http://localhost:3000` to view the application.
+4. Open your browser and navigate to `http://localhost:3000` to view the application.
 
 ### Backend Setup
 
@@ -75,6 +72,7 @@ Due to network limitations and time constraints, the following features were not
 - Enhance error handling and user feedback mechanisms.
 - Improve UI/UX based on user testing and feedback.
 
+**Note:** It seems I mistakenly initialized a Git repository for the frontend.
 
 
 
